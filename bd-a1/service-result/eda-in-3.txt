@@ -1,0 +1,2 @@
+The column Customer Status has 6 unique values: Silver,SILVER,Gold,GOLD,PLATINUM,Platinum
+These unique values can be made to 3 with data transformation

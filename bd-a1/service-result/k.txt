@@ -1,0 +1,3 @@
+Cluster 1: 50864 data points
+Cluster 2: 89204 data points
+Cluster 3: 44944 data points
